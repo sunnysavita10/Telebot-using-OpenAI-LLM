@@ -1,0 +1,5 @@
+python-dotenv
+#aiogram==3.4.1
+openai
+google-generativeai 
+langchain-google-genai
